@@ -1,78 +1,129 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Danilo Soares de Araújo",
+  "photo": "https://media.licdn.com/dms/image/D4D03AQEYJI_cA5yLeg/profile-displayphoto-shrink_800_800/0/1712884770940?e=1718236800&v=beta&t=nQlUz0yjPfRQdJYE2o6x-V3KdHYxUnWe2MGv4-ZHY1c" ,
+  "job": "Assistente Administrativo",
+  "titulo": "Education Tech Lead na DIO",
+  "location":"São Pauo - SP",
+  "phone": "(11) 95247-2331",
+  "email": "danilodanobas@gmail.com",
+  
+  
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "nome": "Android",
+        "logo": "TODO"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "nome": "Java",
+        "logo": "TODO"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "nome": "Kotlin",
+        "logo": "TODO"
       }
     ],
     "softSkills": [
+      "Comunicação",
       "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Poder de Sedução Imcomparável"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+  "idiomas": [
+    {
+      "nome": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "nome": "Inglês",
+      "nivel": "Intermediário"
+    },
+    {
+      "nome": "Espanhol",
+      "nivel": "Básico"
+    }
+  ],
+  "educacao": [
+    {
+      "nome": "dio.me",
+      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "2019",
+        "fim": "Atualmente"
+      },
+      "certificados": [
+        {
+          "nome": "Formação: Blockchain Specialist (25h)",
+          "link": "https://www.dio.me/certificate/28601B02"
+        },
+        {
+          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
+          "link": "https://www.dio.me/certificate/07041B99"
+        },
+        {
+          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
+          "link": "https://www.dio.me/certificate/F12AC30B"
+        },
+        {
+          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
+          "link": "https://www.dio.me/certificate/3FB20BF1"
+        },
+        {
+          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
+          "link": "https://www.dio.me/certificate/BA099F34"
+        }
+      ]
+    },
+    {
+      "nome": "Doutorado em Engenharia de Software",
+      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2018",
+        "fim": "Atualmente"
+      }
+    },
+    {
+      "nome": "Mestrado em Engenharia de Software",
+      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2012",
+        "fim": "2015"
+      }
+    },
+    {
+      "nome": "Bacharelado em Engenharia de Computação",
+      "descricao": "",
+      "instituicao": "Universidade de Araraquara (UNIARA)",
+      "periodo": {
+        "inicio": "2007",
+        "fim": "2011"
+      }
+    }
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
+      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1"
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
+      "certificado": "https://www.dio.me/certificate/9A5090FC"
     }
   ],
-  "professionalExperience": [
+  "experiencias": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "nome": "Education Tech Lead ",
+      "descricao": "",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "03/2021",
+        "fim": "Atualmente"
+      }
     }
   ]
 }
