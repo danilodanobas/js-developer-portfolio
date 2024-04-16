@@ -11,16 +11,24 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/danilodanobas/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/danilodanobas/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/danilodanobas/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/danilodanobas/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/danilodanobas/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
