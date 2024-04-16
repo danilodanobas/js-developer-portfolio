@@ -105,19 +105,24 @@
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Curso DIO.Me criacão de uma Pokedex",
+      "url": "https://github.com/danilodanobas/js-developer-pokedex",
+      "git": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Curso DIO.Me criacão de uma pagina de curriculo",
+      "url": "https://github.com/danilodanobas/js-developer-portfolio",
+      "git": true
+    },
+    {
+      "name": "Curso Alura criacão do jogo numero secreto",
+      "url": "https://github.com/danilodanobas/Jogo-do-numero-secreto",
+      "git": true
     }
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
+      "name": "Education Tech Lead ",
       "descricao": "",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
