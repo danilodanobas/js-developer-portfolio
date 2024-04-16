@@ -122,13 +122,19 @@
   ],
   "experiencias": [
     {
-      "name": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
-    }
+      "name": "atualizar ",
+      "period": "atualizar",
+      "description": "atualizar"
+      },
+      {
+      "name": "atualizar",
+      "period": "atualizar",
+      "description": "atualizar"
+      },
+      {
+        "name": "atualizar",
+        "period": "atualizar",
+        "description": "atualizar"
+        }
   ]
 }
