@@ -107,17 +107,17 @@
     {
       "name": "Curso DIO.Me criacão de uma Pokedex",
       "url": "https://github.com/danilodanobas/js-developer-pokedex",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso DIO.Me criacão de uma pagina de curriculo",
       "url": "https://github.com/danilodanobas/js-developer-portfolio",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso Alura criacão do jogo numero secreto",
       "url": "https://github.com/danilodanobas/Jogo-do-numero-secreto",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
