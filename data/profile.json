@@ -3,7 +3,7 @@
   "photo": "https://media.licdn.com/dms/image/D4D03AQEYJI_cA5yLeg/profile-displayphoto-shrink_800_800/0/1712884770940?e=1718236800&v=beta&t=nQlUz0yjPfRQdJYE2o6x-V3KdHYxUnWe2MGv4-ZHY1c" ,
   "job": "Assistente Administrativo",
   "titulo": "Education Tech Lead na DIO",
-  "location":"São Pauo - SP",
+  "location":"São Paulo - SP",
   "phone": "(11) 95247-2331",
   "email": "danilodanobas@gmail.com",
   
@@ -34,7 +34,7 @@
     "softSkills": [
       "Comunicação",
       "Empatia",
-      "Trabalho em euqipe",
+      "Trabalho em equipe",
       "Organização",
       "Facil Aprendizado"
     ]
@@ -45,17 +45,17 @@
   ],
   "portfolio": [
     {
-      "name": "Curso DIO.Me criacão de uma Pokedex",
+      "name": "Curso DIO.Me criação de uma Pokedex",
       "url": "https://github.com/danilodanobas/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso DIO.Me criacão de uma pagina de curriculo",
+      "name": "Curso DIO.Me criação de uma página de currículo",
       "url": "https://github.com/danilodanobas/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Curso Alura criacão do jogo numero secreto",
+      "name": "Curso Alura criação do jogo número secreto",
       "url": "https://github.com/danilodanobas/Jogo-do-numero-secreto",
       "github": true
     }
@@ -67,7 +67,7 @@
       "description": ""
       },
       {
-      "name": "Assistente de segurança / Nova Saude",
+      "name": "Assistente de segurança / Nova Saúde",
       "period": "2022-2022",
       "description": ""
       },
